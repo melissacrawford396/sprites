@@ -3,7 +3,7 @@
 
 ## Notes from my first sprites
 
-An Aseprite Crash Course In 30 Minutes 
+An Aseprite Crash Course In 30 Minutes : https://www.youtube.com/watch?v=59Y6OTzNrhk&t=1s
 Steps!
 - Blocking in 
  - Silhouette 
