@@ -1,6 +1,10 @@
 
 ## References
+### Palette
+https://lospec.com/palette-list/poisson-23
 
+
+### Eye references to practice:
 Minimal eyes
 https://www.vecteezy.com/vector-art/53823711-pixel-art-kawaii-faces-cute-pixelated-facial-expressions-uwu-face-surprised-eyes-sad-crying-and-happy-smiling-pixels-retro-8-bit-gaming-or-anime-emotions-icons-set
 
